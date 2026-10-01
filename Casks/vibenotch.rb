@@ -7,7 +7,7 @@ cask "vibenotch" do
   desc "Monitor coding agents and handle approvals from the MacBook notch"
   homepage "https://github.com/Dix01/homebrew-vibenotch"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "VibeNotch.app"
 
