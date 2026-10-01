@@ -14,7 +14,7 @@ Requires macOS 14 or later. The download supports both Apple Silicon and Intel M
 
 Open **VibeNotch** from Applications, then choose **Connect agents**.
 
-This beta is not notarized yet. If macOS blocks its first launch, open **System Settings → Privacy & Security** and choose **Open Anyway** for VibeNotch.
+Version 1.0.1 and later are signed with Developer ID and notarized by Apple.
 
 You can also download the app ZIP from [Releases](https://github.com/Dix01/homebrew-vibenotch/releases).
 
