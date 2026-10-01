@@ -1,6 +1,6 @@
 cask "vibenotch" do
-  version "1.0.0"
-  sha256 "0967d43934c31fe59e487a8b5239e46b412a90f9aa85261a4d0372fd80177524"
+  version "1.0.1"
+  sha256 "73b97ed4390a94e66ec5a1d4df7f845c38edd018641a2e3e76323a39540df13e"
 
   url "https://github.com/Dix01/homebrew-vibenotch/releases/download/v#{version}/VibeNotch-#{version}.zip"
   name "VibeNotch"
@@ -19,8 +19,6 @@ cask "vibenotch" do
   ]
 
   caveats <<~EOS
-    This beta is not notarized. If macOS blocks the first launch, open
-    System Settings > Privacy & Security and choose Open Anyway for VibeNotch.
     On first launch, choose Connect agents to enable your coding agents.
   EOS
 end
