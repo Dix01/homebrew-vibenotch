@@ -1,6 +1,6 @@
 cask "vibenotch" do
-  version "1.0.1"
-  sha256 "73b97ed4390a94e66ec5a1d4df7f845c38edd018641a2e3e76323a39540df13e"
+  version "1.0.2"
+  sha256 "ae56629fa861f1e1fe00a62a7d8ab66ac6b53fa63e4bfbd8f16c8f6ca458e659"
 
   url "https://github.com/Dix01/homebrew-vibenotch/releases/download/v#{version}/VibeNotch-#{version}.zip"
   name "VibeNotch"
