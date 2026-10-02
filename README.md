@@ -4,6 +4,10 @@ Every coding agent, live in your notch. VibeNotch is a native Mac app for monito
 
 ## Install
 
+[**Download VibeNotch 1.0.2 for Mac**](https://github.com/Dix01/homebrew-vibenotch/releases/download/v1.0.2/VibeNotch-1.0.2.zip)
+
+Unzip the download, move **VibeNotch.app** to **Applications**, and launch it.
+
 With Homebrew installed:
 
 ```sh
